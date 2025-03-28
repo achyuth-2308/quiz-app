@@ -7,7 +7,7 @@ from sqlalchemy import inspect
 from flask_login import LoginManager
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///quiz_master.db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///quiz_mastesr.db'
 app.secret_key = 'qwerty'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
