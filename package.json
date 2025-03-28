@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "name": "mad_1-proj",
+  "version": "1.0.0",
+  "description": "```\r MAD_1 proj\r ├─ .DS_Store\r ├─ __pycache__\r │  ├─ __init__.cpython-311.pyc\r │  └─ app.cpython-311.pyc\r ├─ app.py\r ├─ controllers\r │  ├─ __pycache__\r │  │  ├─ admin.cpython-311.pyc\r │  │  └─ auth.cpython-311.pyc\r │  ├─ admin.py\r │  └─ auth.py\r ├─ instance\r │  └─ db.quiz\r ├─ migrations\r │  ├─ README\r │  ├─ __pycache__\r │  │  └─ env.cpython-311.pyc\r │  ├─ alembic.ini\r │  ├─ env.py\r │  ├─ script.py.mako\r │  └─ versions\r │     ├─ __pycache__\r │     │  └─ c3f89c72dafa_initial_migration.cpython-311.pyc\r │     └─ c3f89c72dafa_initial_migration.py\r ├─ models\r │  ├─ __init__.py\r │  ├─ __pycache__\r │  │  ├─ __init__.cpython-311.pyc\r │  │  ├─ models.cpython-311.pyc\r │  │  ├─ quiz.cpython-311.pyc\r │  │  └─ user.cpython-311.pyc\r │  └─ models.py\r ├─ static\r │  ├─ css\r │  └─ images\r └─ templates\r    ├─ dashboard.html\r    ├─ home.html\r    ├─ login.html\r    └─ register.html",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'No build process defined yet!'"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# Node.js
+node_modules/
+
+# Logs and Temp Files
+*.log
+*.tmp
+
+# IDE & OS Files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Virtual Environments
+*.venv
